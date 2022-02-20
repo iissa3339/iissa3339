@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **iissa3339/iissa3339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I'm Issa Issa
+- 👀 I’m interested in software and app development.
+- 🌱 I’m currently learning Swift
