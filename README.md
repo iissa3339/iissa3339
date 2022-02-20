@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 👋 Hi, I'm Issa Issa
 - 👀 I’m interested in software and app development.
 - 🌱 I’m currently learning Swift
+- 💬 Feel free to checkout my repositories featuring projects from school as well as side projects that demonstrate my computer science learning journey
